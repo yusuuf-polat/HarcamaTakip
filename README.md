@@ -23,7 +23,8 @@ Framework: Flutter (Material 3)
 
 State Management: Provider
 
-Local Database: sqflite & path_provider
+Local Database: sqflite 
 
-Charts: fl_chart
+
+
 
