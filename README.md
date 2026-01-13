@@ -14,8 +14,6 @@ Modern Kullanıcı Deneyimi: * Kategori bazlı dinamik renklendirme.
 
 Harcamaları sağa kaydırarak silme (Swipe-to-delete).
 
-Açık/Koyu tema uyumlu modern tasarım.
-
 Reaktif Arayüz: Provider ile veri değişikliklerinin tüm ekranlarda anlık güncellenmesi.
 
 🛠 Kullanılan Teknolojiler
@@ -28,3 +26,4 @@ State Management: Provider
 Local Database: sqflite & path_provider
 
 Charts: fl_chart
+
